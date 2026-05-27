@@ -17,11 +17,14 @@ def train_classification():
     )
 
     epochs = 300
-    learning_rate = 0.05
+    learning_rate = 0.05 # constant value, no AdaM
     batch_size = 32
 
-    for epoch in range(epochs):
+    for epoch in range(1,epochs+1):
         indexes = np.random.permutation(len(X_train))
+
+
+            # mini batch Stochastic Gradient Descent SGD
 
         for start in range(0, len(X_train), batch_size):
             batch_indexes = indexes[start:start + batch_size]
@@ -33,9 +36,9 @@ def train_classification():
             loss, grad = cross_entropy_loss(logits, y_batch)
 
             model.backward(grad)
-            model.update(learning_rate)
+            model.update(learning_rate) # updating weight for each batch makes it mini-batch SGD
 
-        if epoch % 50 == 0:
+        if epoch == 1 or epoch  % 50 == 0:
             test_logits = model.forward(X_test)
             test_accuracy = accuracy(test_logits, y_test)
 
@@ -47,9 +50,10 @@ def train_classification():
 def train_regression():
     X_train, X_test, y_train, y_test = load_data(task="regression")
 
+
+    # normilize data with statistic norm
     y_mean = y_train.mean()
     y_std = y_train.std()
-
     y_train_scaled = (y_train - y_mean) / y_std
 
     model = MLP(
@@ -59,11 +63,14 @@ def train_regression():
         output_size=1
     )
 
+    # initialize defaults
     epochs = 500
-    learning_rate = 0.01
+    learning_rate = 0.01 # constant value, no AdaM
     batch_size = 32
 
-    for epoch in range(epochs):
+
+    for epoch in range(1,epochs+1):
+        # mix train data, so that mini batch SGD wouldn't be biased because of the order
         indexes = np.random.permutation(len(X_train))
 
         for start in range(0, len(X_train), batch_size):
@@ -78,7 +85,7 @@ def train_regression():
             model.backward(grad)
             model.update(learning_rate)
 
-        if epoch % 100 == 0:
+        if  epoch == 1 or epoch % 100 == 0:
             test_predictions_scaled = model.forward(X_test)
             test_predictions = test_predictions_scaled * y_std + y_mean
 
