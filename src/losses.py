@@ -21,15 +21,18 @@ def softmax(logits):
 
 
 def cross_entropy_loss(logits, y_true):
+
+    # predicted values by the model
     probabilities = softmax(logits)
 
     n = len(y_true)
 
+    # probabilities for the right prediction
     correct_probabilities = probabilities[range(n), y_true]
     loss = -np.mean(np.log(correct_probabilities + 1e-12))
 
     grad = probabilities.copy()
-    grad[range(n), y_true] -= 1
+    grad[range(n), y_true] -= 1 # promote right class
     grad = grad / n
 
     return loss, grad

@@ -36,6 +36,8 @@ def numerical_gradients(model, X, y, h):
         parameter = parameters[name]
         gradient = np.zeros_like(parameter)
 
+        # for each param in each layer we calculate numeric gradient
+        # so for each param we have to flactuate param and then calculate loss (by forword pass)
         for index in np.ndindex(parameter.shape):
             old_value = parameter[index]
 

@@ -21,14 +21,18 @@ class MLP:
         return (x > 0).astype(float)
 
     def forward(self, X):
+        # saving training data for this batch
         self.X = X
 
+        # calculate first hidden layer output
         self.Z1 = X @ self.W1 + self.b1
         self.A1 = self.relu(self.Z1)
 
+        # calculate 2 hidden layer output
         self.Z2 = self.A1 @ self.W2 + self.b2
         self.A2 = self.relu(self.Z2)
 
+        # final output before sofmax
         self.Z3 = self.A2 @ self.W3 + self.b3
 
         return self.Z3
