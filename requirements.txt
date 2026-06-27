@@ -1,7 +1,7 @@
-pandas
-scikit-learn
-palmerpenguins
-numpy
-matplotlib
 torch
-jupyter
+torchvision
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm

@@ -1,23 +1,34 @@
-# MLP from Scratch
+# CNN Hyperparameter Optimization
 
-This project implements a multilayer perceptron from scratch using NumPy.
+This project investigates how data augmentation and hyperparameter settings influence the performance of convolutional neural networks on the Oxford-IIIT Pet Dataset.
 
-## Tasks
+The dataset contains images of 37 cat and dog breeds.
 
-- Classification on the Palmer Penguins dataset
-- Regression on the Palmer Penguins dataset
-- Backpropagation
-- Numerical gradient checking
-- PyTorch comparison
+## Project Structure
 
-## Installation
+```text
+src/
+    data.py
+    model.py
+    train.py
+    experiments.py
+    evaluate_final.py
+    main.py
 
-```bash
+reports/
+    results.md
+
+requirements.txt
+README.md
+
+
+
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
 
-## Authors
+base model run: python src/main.py
 
-- Aliaksei Tsybulka
-- Danil Voloshyn
+hyperparameter experiment run: python src/experiments.py
+
+final evaluation run: python src/evaluate_final.py
