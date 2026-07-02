@@ -1,0 +1,13 @@
+{
+  "epochs": 15,
+  "learning_rate": 0.0016726081030450782,
+  "batch_size": 32,
+  "dropout_rate": 0.0,
+  "pooling_type": "max",
+  "channels": [
+    16,
+    32
+  ],
+  "augmentation": false,
+  "seed": 42
+}

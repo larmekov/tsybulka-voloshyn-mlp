@@ -1,0 +1,989 @@
+true_class,predicted_class,count
+Russian Blue,British Shorthair,25
+Scottish Terrier,Newfoundland,22
+Bengal,Abyssinian,18
+Persian,Ragdoll,16
+British Shorthair,Russian Blue,14
+Samoyed,Great Pyrenees,14
+Maine Coon,Persian,13
+Chihuahua,Beagle,13
+Wheaten Terrier,American Bulldog,13
+Birman,Ragdoll,13
+Japanese Chin,Pug,12
+Beagle,Basset Hound,12
+Boxer,Basset Hound,12
+English Cocker Spaniel,Newfoundland,12
+Siamese,Ragdoll,11
+Abyssinian,Bengal,11
+Siamese,Birman,11
+English Setter,American Bulldog,11
+Great Pyrenees,Ragdoll,11
+Basset Hound,Miniature Pinscher,11
+Saint Bernard,American Bulldog,10
+Russian Blue,Keeshond,10
+Basset Hound,Saint Bernard,10
+Miniature Pinscher,Basset Hound,10
+Pomeranian,Abyssinian,10
+Havanese,Saint Bernard,10
+English Setter,American Pit Bull Terrier,10
+Staffordshire Bull Terrier,Basset Hound,10
+Sphynx,American Pit Bull Terrier,10
+Chihuahua,American Pit Bull Terrier,10
+Shiba Inu,Pomeranian,10
+Keeshond,Russian Blue,10
+Staffordshire Bull Terrier,Miniature Pinscher,10
+Scottish Terrier,Russian Blue,10
+Samoyed,American Bulldog,10
+Beagle,Japanese Chin,10
+Bengal,American Pit Bull Terrier,9
+Havanese,American Bulldog,9
+Shiba Inu,American Pit Bull Terrier,9
+Keeshond,British Shorthair,9
+German Shorthaired,Basset Hound,9
+American Pit Bull Terrier,Basset Hound,9
+Pug,Saint Bernard,9
+Pomeranian,Ragdoll,9
+American Bulldog,English Setter,9
+Abyssinian,American Pit Bull Terrier,9
+Miniature Pinscher,German Shorthaired,9
+Maine Coon,Pomeranian,9
+Saint Bernard,Japanese Chin,9
+Saint Bernard,American Pit Bull Terrier,9
+Havanese,Great Pyrenees,9
+Egyptian Mau,British Shorthair,9
+English Cocker Spaniel,Basset Hound,9
+Sphynx,Abyssinian,9
+Boxer,American Pit Bull Terrier,9
+Shiba Inu,Basset Hound,8
+German Shorthaired,Boxer,8
+Scottish Terrier,British Shorthair,8
+Great Pyrenees,American Bulldog,8
+Birman,Siamese,8
+Egyptian Mau,German Shorthaired,8
+Abyssinian,Saint Bernard,8
+Yorkshire Terrier,Miniature Pinscher,8
+Chihuahua,American Bulldog,8
+Chihuahua,Basset Hound,8
+Keeshond,German Shorthaired,8
+Pomeranian,American Pit Bull Terrier,8
+Persian,Maine Coon,8
+American Bulldog,Wheaten Terrier,8
+Wheaten Terrier,Great Pyrenees,8
+Pomeranian,Persian,8
+Great Pyrenees,Samoyed,8
+Samoyed,Ragdoll,8
+Bengal,Maine Coon,8
+Ragdoll,Siamese,8
+Newfoundland,Bombay,8
+American Pit Bull Terrier,German Shorthaired,8
+Pug,English Setter,7
+Basset Hound,Beagle,7
+Pug,Great Pyrenees,7
+Pug,Havanese,7
+Leonberger,German Shorthaired,7
+American Pit Bull Terrier,Shiba Inu,7
+Wheaten Terrier,Havanese,7
+Wheaten Terrier,Abyssinian,7
+Miniature Pinscher,Abyssinian,7
+American Pit Bull Terrier,Saint Bernard,7
+Maine Coon,Egyptian Mau,7
+Beagle,Saint Bernard,7
+Beagle,Shiba Inu,7
+Chihuahua,Shiba Inu,7
+American Bulldog,Great Pyrenees,7
+American Bulldog,Japanese Chin,7
+Shiba Inu,Beagle,7
+English Setter,Basset Hound,7
+Yorkshire Terrier,Shiba Inu,7
+Yorkshire Terrier,Abyssinian,7
+Siamese,Shiba Inu,7
+Staffordshire Bull Terrier,Shiba Inu,7
+German Shorthaired,Staffordshire Bull Terrier,7
+Havanese,Japanese Chin,7
+Boxer,German Shorthaired,7
+Birman,British Shorthair,7
+Great Pyrenees,Japanese Chin,7
+Samoyed,Japanese Chin,7
+Yorkshire Terrier,Persian,6
+Birman,Japanese Chin,6
+Yorkshire Terrier,Havanese,6
+British Shorthair,Sphynx,6
+Boxer,Saint Bernard,6
+Siamese,Great Pyrenees,6
+Sphynx,Beagle,6
+British Shorthair,Egyptian Mau,6
+Staffordshire Bull Terrier,American Pit Bull Terrier,6
+Siamese,Bombay,6
+English Cocker Spaniel,American Bulldog,6
+English Setter,Great Pyrenees,6
+Great Pyrenees,Persian,6
+English Setter,Havanese,6
+English Cocker Spaniel,Abyssinian,6
+Bombay,Newfoundland,6
+Boxer,Miniature Pinscher,6
+American Pit Bull Terrier,Maine Coon,6
+Bengal,English Cocker Spaniel,6
+Birman,Russian Blue,6
+Russian Blue,Egyptian Mau,6
+Pug,Boxer,6
+American Pit Bull Terrier,Beagle,6
+American Bulldog,Pug,6
+Miniature Pinscher,American Bulldog,6
+Ragdoll,Japanese Chin,6
+Ragdoll,Maine Coon,6
+Leonberger,English Cocker Spaniel,6
+Russian Blue,Bombay,6
+Ragdoll,Samoyed,6
+Saint Bernard,Basset Hound,6
+Miniature Pinscher,American Pit Bull Terrier,6
+Saint Bernard,Pug,6
+Shiba Inu,Abyssinian,6
+Staffordshire Bull Terrier,Havanese,6
+Staffordshire Bull Terrier,German Shorthaired,6
+Samoyed,American Pit Bull Terrier,6
+Keeshond,Ragdoll,6
+Beagle,German Shorthaired,6
+Bengal,Beagle,6
+German Shorthaired,Saint Bernard,6
+Pomeranian,Maine Coon,5
+Pug,German Shorthaired,5
+Abyssinian,Pomeranian,5
+American Bulldog,German Shorthaired,5
+American Pit Bull Terrier,Bengal,5
+Pug,Ragdoll,5
+Pomeranian,American Bulldog,5
+American Bulldog,Saint Bernard,5
+Keeshond,Staffordshire Bull Terrier,5
+Saint Bernard,Beagle,5
+Saint Bernard,Boxer,5
+Saint Bernard,German Shorthaired,5
+Leonberger,Saint Bernard,5
+Maine Coon,Bombay,5
+Leonberger,English Setter,5
+Leonberger,Newfoundland,5
+Beagle,American Bulldog,5
+Maine Coon,Boxer,5
+Russian Blue,Sphynx,5
+Basset Hound,German Shorthaired,5
+Russian Blue,German Shorthaired,5
+Miniature Pinscher,English Cocker Spaniel,5
+Beagle,Miniature Pinscher,5
+Basset Hound,American Pit Bull Terrier,5
+Ragdoll,Great Pyrenees,5
+Ragdoll,Persian,5
+Newfoundland,Staffordshire Bull Terrier,5
+Newfoundland,Havanese,5
+Miniature Pinscher,Yorkshire Terrier,5
+Pomeranian,Bengal,5
+Persian,Great Pyrenees,5
+Persian,Chihuahua,5
+American Pit Bull Terrier,Japanese Chin,5
+Newfoundland,Leonberger,5
+Abyssinian,Miniature Pinscher,5
+Keeshond,American Pit Bull Terrier,5
+Keeshond,Bombay,5
+Japanese Chin,Havanese,5
+Birman,Persian,5
+Havanese,Wheaten Terrier,5
+English Setter,Pug,5
+Scottish Terrier,Staffordshire Bull Terrier,5
+German Shorthaired,American Pit Bull Terrier,5
+German Shorthaired,Japanese Chin,5
+German Shorthaired,Newfoundland,5
+Scottish Terrier,Chihuahua,5
+Scottish Terrier,Bombay,5
+Beagle,Boxer,5
+Samoyed,Havanese,5
+Leonberger,Boxer,5
+Japanese Chin,Saint Bernard,5
+English Setter,Beagle,5
+Bombay,Basset Hound,5
+Boxer,Abyssinian,5
+English Setter,English Cocker Spaniel,5
+Bombay,Russian Blue,5
+Sphynx,Wheaten Terrier,5
+Shiba Inu,Wheaten Terrier,5
+English Cocker Spaniel,English Setter,5
+Shiba Inu,Persian,5
+Boxer,English Cocker Spaniel,5
+Boxer,Beagle,5
+Siamese,Pug,5
+Chihuahua,Saint Bernard,5
+Sphynx,Basset Hound,5
+Egyptian Mau,Japanese Chin,5
+British Shorthair,Abyssinian,5
+British Shorthair,Maine Coon,5
+Abyssinian,Ragdoll,5
+Sphynx,American Bulldog,5
+Yorkshire Terrier,Basset Hound,5
+Yorkshire Terrier,Beagle,5
+Abyssinian,Maine Coon,4
+Abyssinian,Egyptian Mau,4
+Pug,American Pit Bull Terrier,4
+Sphynx,German Shorthaired,4
+Chihuahua,Sphynx,4
+Pomeranian,Samoyed,4
+Pomeranian,Saint Bernard,4
+Pomeranian,Shiba Inu,4
+Pug,American Bulldog,4
+American Pit Bull Terrier,Newfoundland,4
+Ragdoll,American Pit Bull Terrier,4
+British Shorthair,Beagle,4
+Boxer,Pug,4
+Sphynx,Chihuahua,4
+Sphynx,Boxer,4
+British Shorthair,Keeshond,4
+British Shorthair,Ragdoll,4
+Chihuahua,Pug,4
+Chihuahua,Great Pyrenees,4
+Egyptian Mau,American Pit Bull Terrier,4
+Persian,Samoyed,4
+Persian,Abyssinian,4
+Ragdoll,British Shorthair,4
+Shiba Inu,Yorkshire Terrier,4
+Ragdoll,Havanese,4
+Egyptian Mau,Chihuahua,4
+Siamese,American Pit Bull Terrier,4
+Sphynx,Maine Coon,4
+Newfoundland,Scottish Terrier,4
+Sphynx,Shiba Inu,4
+Siamese,Wheaten Terrier,4
+Pomeranian,British Shorthair,4
+Persian,Japanese Chin,4
+Sphynx,Ragdoll,4
+American Bulldog,Sphynx,4
+English Cocker Spaniel,Miniature Pinscher,4
+English Cocker Spaniel,Pomeranian,4
+Newfoundland,Russian Blue,4
+Miniature Pinscher,Newfoundland,4
+Shiba Inu,Chihuahua,4
+Newfoundland,Miniature Pinscher,4
+Miniature Pinscher,Saint Bernard,4
+Egyptian Mau,Sphynx,4
+Wheaten Terrier,Ragdoll,4
+Wheaten Terrier,Maine Coon,4
+Egyptian Mau,Russian Blue,4
+English Cocker Spaniel,Shiba Inu,4
+Newfoundland,British Shorthair,4
+Ragdoll,Pug,4
+Japanese Chin,American Bulldog,4
+Bengal,Boxer,4
+Yorkshire Terrier,English Cocker Spaniel,4
+Pug,English Cocker Spaniel,4
+American Bulldog,Havanese,4
+American Pit Bull Terrier,American Bulldog,4
+Yorkshire Terrier,American Pit Bull Terrier,4
+Yorkshire Terrier,Bengal,4
+Yorkshire Terrier,German Shorthaired,4
+Havanese,Pug,4
+Birman,American Bulldog,4
+Beagle,Staffordshire Bull Terrier,4
+Japanese Chin,German Shorthaired,4
+Bengal,Persian,4
+Japanese Chin,English Setter,4
+Japanese Chin,Basset Hound,4
+Japanese Chin,American Pit Bull Terrier,4
+Japanese Chin,Siamese,4
+Wheaten Terrier,American Pit Bull Terrier,4
+Wheaten Terrier,Beagle,4
+Keeshond,Havanese,4
+Keeshond,English Setter,4
+Great Pyrenees,English Setter,4
+Keeshond,Japanese Chin,4
+Bengal,Basset Hound,4
+Great Pyrenees,Pug,4
+Scottish Terrier,Japanese Chin,4
+Birman,Great Pyrenees,4
+Leonberger,Keeshond,4
+Saint Bernard,Shiba Inu,4
+German Shorthaired,English Setter,4
+German Shorthaired,Havanese,4
+Basset Hound,Shiba Inu,4
+Maine Coon,Bengal,4
+Leonberger,Wheaten Terrier,4
+Leonberger,Yorkshire Terrier,4
+Basset Hound,Japanese Chin,4
+Great Pyrenees,American Pit Bull Terrier,4
+Bombay,Egyptian Mau,4
+Maine Coon,Saint Bernard,4
+Shiba Inu,Boxer,4
+Miniature Pinscher,Boxer,4
+Boxer,Japanese Chin,4
+Wheaten Terrier,English Setter,4
+Maine Coon,Japanese Chin,4
+English Setter,Boxer,4
+English Setter,Saint Bernard,4
+English Setter,Siamese,4
+American Pit Bull Terrier,Wheaten Terrier,4
+Basset Hound,Abyssinian,4
+Saint Bernard,Siamese,4
+Saint Bernard,Staffordshire Bull Terrier,4
+Samoyed,Persian,4
+Shiba Inu,Japanese Chin,3
+Shiba Inu,Maine Coon,3
+American Pit Bull Terrier,Great Pyrenees,3
+Newfoundland,German Shorthaired,3
+Miniature Pinscher,Maine Coon,3
+American Pit Bull Terrier,English Cocker Spaniel,3
+English Cocker Spaniel,American Pit Bull Terrier,3
+American Pit Bull Terrier,Havanese,3
+Newfoundland,American Pit Bull Terrier,3
+English Cocker Spaniel,German Shorthaired,3
+English Cocker Spaniel,Havanese,3
+English Cocker Spaniel,Persian,3
+English Cocker Spaniel,Ragdoll,3
+Wheaten Terrier,Pug,3
+Wheaten Terrier,Persian,3
+Shiba Inu,Havanese,3
+Bombay,Pug,3
+Bombay,Havanese,3
+Egyptian Mau,Maine Coon,3
+Sphynx,Havanese,3
+Persian,Pomeranian,3
+American Bulldog,Scottish Terrier,3
+Persian,Siamese,3
+Persian,American Pit Bull Terrier,3
+Siamese,Bengal,3
+Siamese,British Shorthair,3
+Siamese,Boxer,3
+Egyptian Mau,Great Pyrenees,3
+British Shorthair,Birman,3
+Pomeranian,Basset Hound,3
+Chihuahua,Pomeranian,3
+Chihuahua,Miniature Pinscher,3
+Sphynx,Japanese Chin,3
+Pug,Basset Hound,3
+Abyssinian,British Shorthair,3
+Pug,Siamese,3
+Ragdoll,Birman,3
+Chihuahua,Boxer,3
+Chihuahua,British Shorthair,3
+Chihuahua,Havanese,3
+British Shorthair,Great Pyrenees,3
+British Shorthair,Newfoundland,3
+Egyptian Mau,Abyssinian,3
+Chihuahua,Abyssinian,3
+Sphynx,British Shorthair,3
+Yorkshire Terrier,Siamese,3
+Yorkshire Terrier,Staffordshire Bull Terrier,3
+Siamese,Sphynx,3
+Siamese,Russian Blue,3
+Staffordshire Bull Terrier,American Bulldog,3
+Russian Blue,Maine Coon,3
+Birman,Samoyed,3
+Bombay,German Shorthaired,3
+Boxer,Havanese,3
+English Setter,Chihuahua,3
+English Setter,Abyssinian,3
+English Cocker Spaniel,Staffordshire Bull Terrier,3
+Basset Hound,Boxer,3
+Russian Blue,Basset Hound,3
+Shiba Inu,Miniature Pinscher,3
+Shiba Inu,Saint Bernard,3
+Saint Bernard,Ragdoll,3
+Saint Bernard,Havanese,3
+Saint Bernard,Chihuahua,3
+Leonberger,Samoyed,3
+Scottish Terrier,Leonberger,3
+Scottish Terrier,Pug,3
+Staffordshire Bull Terrier,Russian Blue,3
+Birman,Beagle,3
+Maine Coon,Basset Hound,3
+Leonberger,Havanese,3
+Leonberger,Pomeranian,3
+Maine Coon,Abyssinian,3
+Great Pyrenees,Abyssinian,3
+German Shorthaired,Shiba Inu,3
+German Shorthaired,Miniature Pinscher,3
+German Shorthaired,American Bulldog,3
+Leonberger,Staffordshire Bull Terrier,3
+Beagle,Pug,3
+Beagle,Siamese,3
+Basset Hound,Havanese,3
+English Setter,Staffordshire Bull Terrier,3
+English Cocker Spaniel,Chihuahua,3
+Basset Hound,American Bulldog,3
+Basset Hound,English Setter,3
+Shiba Inu,Bengal,3
+Maine Coon,German Shorthaired,3
+Basset Hound,English Cocker Spaniel,3
+Boxer,American Bulldog,3
+Bombay,British Shorthair,3
+Keeshond,Chihuahua,3
+Beagle,English Setter,3
+Leonberger,Abyssinian,3
+Japanese Chin,Shiba Inu,3
+Samoyed,Sphynx,3
+Samoyed,Pug,3
+Havanese,Ragdoll,3
+Bengal,Egyptian Mau,3
+Bengal,Miniature Pinscher,3
+Great Pyrenees,German Shorthaired,3
+Great Pyrenees,Saint Bernard,3
+Keeshond,Saint Bernard,3
+Leonberger,Chihuahua,3
+Leonberger,Bengal,3
+Leonberger,American Pit Bull Terrier,3
+Keeshond,Newfoundland,3
+Great Pyrenees,Wheaten Terrier,3
+Havanese,Beagle,3
+Havanese,English Setter,3
+Havanese,Newfoundland,3
+Havanese,Keeshond,3
+Bengal,Shiba Inu,3
+Bengal,Sphynx,3
+Bengal,Ragdoll,3
+Birman,Pug,3
+Keeshond,American Bulldog,3
+Pomeranian,Japanese Chin,3
+Abyssinian,Shiba Inu,3
+Wheaten Terrier,Shiba Inu,3
+Pomeranian,Havanese,3
+American Bulldog,Basset Hound,3
+Yorkshire Terrier,Newfoundland,3
+Yorkshire Terrier,Japanese Chin,3
+Yorkshire Terrier,Saint Bernard,3
+Yorkshire Terrier,Boxer,3
+Yorkshire Terrier,American Bulldog,2
+Wheaten Terrier,Siamese,2
+Yorkshire Terrier,Ragdoll,2
+Yorkshire Terrier,Pomeranian,2
+American Bulldog,Birman,2
+American Bulldog,American Pit Bull Terrier,2
+British Shorthair,Samoyed,2
+Wheaten Terrier,Samoyed,2
+American Bulldog,Pomeranian,2
+American Bulldog,Newfoundland,2
+American Bulldog,English Cocker Spaniel,2
+American Bulldog,Bombay,2
+Pomeranian,Miniature Pinscher,2
+Pug,Maine Coon,2
+Pug,Keeshond,2
+Pug,Beagle,2
+Havanese,Maine Coon,2
+Japanese Chin,Persian,2
+Japanese Chin,Keeshond,2
+Birman,Basset Hound,2
+Birman,Abyssinian,2
+Bengal,Yorkshire Terrier,2
+Bengal,Siamese,2
+Bengal,Saint Bernard,2
+Bengal,Pug,2
+Japanese Chin,English Cocker Spaniel,2
+Japanese Chin,Boxer,2
+Japanese Chin,Birman,2
+Japanese Chin,Wheaten Terrier,2
+Staffordshire Bull Terrier,Scottish Terrier,2
+Staffordshire Bull Terrier,Saint Bernard,2
+Scottish Terrier,American Pit Bull Terrier,2
+Scottish Terrier,American Bulldog,2
+Samoyed,Wheaten Terrier,2
+Samoyed,Saint Bernard,2
+Samoyed,Maine Coon,2
+Havanese,Yorkshire Terrier,2
+Havanese,Staffordshire Bull Terrier,2
+Havanese,Sphynx,2
+Havanese,Siamese,2
+Havanese,Scottish Terrier,2
+Havanese,Samoyed,2
+Bengal,Newfoundland,2
+Bengal,Havanese,2
+Bengal,Chihuahua,2
+Beagle,Wheaten Terrier,2
+Japanese Chin,Pomeranian,2
+Samoyed,British Shorthair,2
+Samoyed,Birman,2
+Samoyed,Beagle,2
+Samoyed,Abyssinian,2
+Staffordshire Bull Terrier,Maine Coon,2
+Staffordshire Bull Terrier,Japanese Chin,2
+Staffordshire Bull Terrier,English Setter,2
+Scottish Terrier,Birman,2
+Great Pyrenees,Pomeranian,2
+Great Pyrenees,Birman,2
+Great Pyrenees,Bengal,2
+Havanese,German Shorthaired,2
+Havanese,British Shorthair,2
+Keeshond,Pug,2
+Keeshond,Great Pyrenees,2
+Leonberger,Basset Hound,2
+Leonberger,American Bulldog,2
+Keeshond,Yorkshire Terrier,2
+Beagle,English Cocker Spaniel,2
+Wheaten Terrier,British Shorthair,2
+Wheaten Terrier,Boxer,2
+Wheaten Terrier,Bengal,2
+Wheaten Terrier,Basset Hound,2
+Staffordshire Bull Terrier,Wheaten Terrier,2
+Staffordshire Bull Terrier,Siamese,2
+Keeshond,Scottish Terrier,2
+Keeshond,Samoyed,2
+Saint Bernard,English Setter,2
+Scottish Terrier,Keeshond,2
+Scottish Terrier,Havanese,2
+Scottish Terrier,Great Pyrenees,2
+Scottish Terrier,German Shorthaired,2
+Scottish Terrier,English Cocker Spaniel,2
+Birman,Egyptian Mau,2
+Birman,Chihuahua,2
+Staffordshire Bull Terrier,Pug,2
+Staffordshire Bull Terrier,Pomeranian,2
+Staffordshire Bull Terrier,Newfoundland,2
+Leonberger,Miniature Pinscher,2
+Leonberger,Maine Coon,2
+Maine Coon,Chihuahua,2
+Maine Coon,Birman,2
+Maine Coon,American Pit Bull Terrier,2
+Maine Coon,American Bulldog,2
+Beagle,Abyssinian,2
+Basset Hound,Ragdoll,2
+Basset Hound,Pug,2
+Basset Hound,Maine Coon,2
+Scottish Terrier,Saint Bernard,2
+German Shorthaired,Chihuahua,2
+German Shorthaired,Bengal,2
+German Shorthaired,Beagle,2
+German Shorthaired,Abyssinian,2
+German Shorthaired,Wheaten Terrier,2
+German Shorthaired,Russian Blue,2
+German Shorthaired,Pug,2
+German Shorthaired,Maine Coon,2
+Beagle,Maine Coon,2
+Russian Blue,Yorkshire Terrier,2
+Russian Blue,Newfoundland,2
+Russian Blue,Leonberger,2
+Maine Coon,Samoyed,2
+Maine Coon,Russian Blue,2
+Staffordshire Bull Terrier,Chihuahua,2
+Bombay,English Cocker Spaniel,2
+Birman,Sphynx,2
+Bombay,Sphynx,2
+English Setter,Ragdoll,2
+English Setter,Pomeranian,2
+English Setter,Maine Coon,2
+Scottish Terrier,Sphynx,2
+Scottish Terrier,Siamese,2
+Maine Coon,Ragdoll,2
+Maine Coon,Pug,2
+Maine Coon,Leonberger,2
+Maine Coon,Havanese,2
+Miniature Pinscher,Egyptian Mau,2
+Miniature Pinscher,British Shorthair,2
+Miniature Pinscher,Bengal,2
+Miniature Pinscher,Beagle,2
+Wheaten Terrier,English Cocker Spaniel,2
+Wheaten Terrier,Egyptian Mau,2
+Boxer,Egyptian Mau,2
+English Cocker Spaniel,Yorkshire Terrier,2
+English Cocker Spaniel,Sphynx,2
+English Setter,Shiba Inu,2
+English Setter,Samoyed,2
+Staffordshire Bull Terrier,English Cocker Spaniel,2
+Staffordshire Bull Terrier,Egyptian Mau,2
+Basset Hound,Bengal,2
+American Pit Bull Terrier,Staffordshire Bull Terrier,2
+Beagle,American Pit Bull Terrier,2
+Maine Coon,Wheaten Terrier,2
+Maine Coon,Sphynx,2
+Russian Blue,English Setter,2
+Russian Blue,American Pit Bull Terrier,2
+Russian Blue,Abyssinian,2
+Ragdoll,Sphynx,2
+Miniature Pinscher,Wheaten Terrier,2
+Miniature Pinscher,Staffordshire Bull Terrier,2
+Shiba Inu,German Shorthaired,2
+English Setter,German Shorthaired,2
+Bombay,Siamese,2
+Bombay,Scottish Terrier,2
+Bombay,Saint Bernard,2
+Bombay,Pomeranian,2
+Boxer,Pomeranian,2
+Miniature Pinscher,Russian Blue,2
+Miniature Pinscher,Pomeranian,2
+Miniature Pinscher,Japanese Chin,2
+Miniature Pinscher,Havanese,2
+Newfoundland,Keeshond,2
+Newfoundland,English Setter,2
+American Pit Bull Terrier,Chihuahua,2
+Shiba Inu,Staffordshire Bull Terrier,2
+English Cocker Spaniel,Boxer,2
+Egyptian Mau,Shiba Inu,2
+Egyptian Mau,Ragdoll,2
+English Cocker Spaniel,Saint Bernard,2
+English Cocker Spaniel,Pug,2
+Wheaten Terrier,Pomeranian,2
+Wheaten Terrier,Leonberger,2
+Wheaten Terrier,Japanese Chin,2
+Wheaten Terrier,German Shorthaired,2
+Newfoundland,English Cocker Spaniel,2
+Newfoundland,American Bulldog,2
+Newfoundland,Abyssinian,2
+Ragdoll,Saint Bernard,2
+Ragdoll,Russian Blue,2
+Sphynx,Pomeranian,2
+Sphynx,Persian,2
+British Shorthair,Chihuahua,2
+British Shorthair,Bengal,2
+Egyptian Mau,Havanese,2
+Siamese,Egyptian Mau,2
+Siamese,Abyssinian,2
+Ragdoll,Pomeranian,2
+Ragdoll,Egyptian Mau,2
+Ragdoll,Chihuahua,2
+Persian,Egyptian Mau,2
+Persian,British Shorthair,2
+Persian,Bombay,2
+Persian,Bengal,2
+Persian,Scottish Terrier,2
+Persian,Saint Bernard,2
+Chihuahua,Maine Coon,2
+Siamese,Staffordshire Bull Terrier,2
+Egyptian Mau,Persian,2
+Egyptian Mau,Keeshond,2
+Staffordshire Bull Terrier,Beagle,2
+Sphynx,Russian Blue,2
+Sphynx,Pug,2
+Persian,Pug,2
+Persian,Havanese,2
+Persian,German Shorthaired,2
+Pomeranian,English Setter,2
+Pomeranian,Chihuahua,2
+Pomeranian,Beagle,2
+American Pit Bull Terrier,Abyssinian,2
+American Bulldog,Staffordshire Bull Terrier,2
+American Bulldog,Siamese,2
+American Bulldog,Shiba Inu,2
+Sphynx,Great Pyrenees,2
+Sphynx,Egyptian Mau,2
+British Shorthair,Yorkshire Terrier,2
+British Shorthair,Wheaten Terrier,2
+Chihuahua,Wheaten Terrier,2
+Chihuahua,Ragdoll,2
+British Shorthair,Saint Bernard,2
+British Shorthair,Havanese,2
+Chihuahua,English Setter,2
+British Shorthair,American Pit Bull Terrier,2
+Boxer,Shiba Inu,2
+American Bulldog,Samoyed,2
+American Pit Bull Terrier,Samoyed,2
+American Pit Bull Terrier,Pug,2
+American Pit Bull Terrier,Persian,2
+American Pit Bull Terrier,Miniature Pinscher,2
+Ragdoll,Bengal,2
+Pug,Wheaten Terrier,2
+Pug,Staffordshire Bull Terrier,2
+Abyssinian,English Cocker Spaniel,2
+Abyssinian,German Shorthaired,2
+Abyssinian,Basset Hound,2
+Abyssinian,Boxer,2
+Yorkshire Terrier,Sphynx,2
+Abyssinian,Havanese,2
+Abyssinian,Beagle,1
+Abyssinian,Japanese Chin,1
+Abyssinian,Russian Blue,1
+Abyssinian,Scottish Terrier,1
+Abyssinian,Sphynx,1
+American Pit Bull Terrier,Russian Blue,1
+American Pit Bull Terrier,Leonberger,1
+American Pit Bull Terrier,British Shorthair,1
+Wheaten Terrier,Newfoundland,1
+Wheaten Terrier,Miniature Pinscher,1
+Wheaten Terrier,Keeshond,1
+Basset Hound,Great Pyrenees,1
+Basset Hound,British Shorthair,1
+American Pit Bull Terrier,Siamese,1
+American Pit Bull Terrier,Scottish Terrier,1
+Basset Hound,Yorkshire Terrier,1
+Basset Hound,Wheaten Terrier,1
+Basset Hound,Staffordshire Bull Terrier,1
+Basset Hound,Siamese,1
+Basset Hound,Newfoundland,1
+Beagle,Ragdoll,1
+Pomeranian,German Shorthaired,1
+Pomeranian,English Cocker Spaniel,1
+Pomeranian,Egyptian Mau,1
+Pomeranian,Boxer,1
+Pomeranian,Bombay,1
+Persian,Wheaten Terrier,1
+Persian,Staffordshire Bull Terrier,1
+Ragdoll,Abyssinian,1
+Pug,Yorkshire Terrier,1
+Pug,Shiba Inu,1
+Pug,Scottish Terrier,1
+Pug,Samoyed,1
+Pug,Russian Blue,1
+Pug,Persian,1
+Pug,Newfoundland,1
+Pug,Abyssinian,1
+Newfoundland,Japanese Chin,1
+Newfoundland,Great Pyrenees,1
+Newfoundland,Basset Hound,1
+Ragdoll,Leonberger,1
+Ragdoll,German Shorthaired,1
+Persian,English Setter,1
+Persian,Boxer,1
+Persian,Birman,1
+Persian,Basset Hound,1
+Persian,American Bulldog,1
+Newfoundland,Yorkshire Terrier,1
+Newfoundland,Saint Bernard,1
+Persian,Sphynx,1
+Persian,Shiba Inu,1
+Persian,Newfoundland,1
+Persian,Keeshond,1
+Miniature Pinscher,Chihuahua,1
+Miniature Pinscher,Birman,1
+Maine Coon,Siamese,1
+Russian Blue,English Cocker Spaniel,1
+Russian Blue,Chihuahua,1
+Russian Blue,Boxer,1
+Russian Blue,Birman,1
+Russian Blue,American Bulldog,1
+Ragdoll,Yorkshire Terrier,1
+Ragdoll,Wheaten Terrier,1
+Ragdoll,Staffordshire Bull Terrier,1
+Miniature Pinscher,Sphynx,1
+Miniature Pinscher,Siamese,1
+Miniature Pinscher,Pug,1
+Miniature Pinscher,Persian,1
+Miniature Pinscher,Keeshond,1
+Leonberger,Great Pyrenees,1
+Maine Coon,British Shorthair,1
+Leonberger,Sphynx,1
+Leonberger,Siamese,1
+Leonberger,Shiba Inu,1
+Russian Blue,Staffordshire Bull Terrier,1
+Russian Blue,Siamese,1
+Russian Blue,Scottish Terrier,1
+Russian Blue,Saint Bernard,1
+Russian Blue,Ragdoll,1
+Russian Blue,Great Pyrenees,1
+Maine Coon,Shiba Inu,1
+Maine Coon,Miniature Pinscher,1
+Maine Coon,Great Pyrenees,1
+Maine Coon,English Cocker Spaniel,1
+Miniature Pinscher,English Setter,1
+Keeshond,Egyptian Mau,1
+Leonberger,British Shorthair,1
+Leonberger,Bombay,1
+Leonberger,Beagle,1
+Keeshond,Sphynx,1
+Keeshond,Siamese,1
+Saint Bernard,Persian,1
+Saint Bernard,Newfoundland,1
+Saint Bernard,Miniature Pinscher,1
+Saint Bernard,Leonberger,1
+Saint Bernard,Great Pyrenees,1
+Saint Bernard,Birman,1
+Leonberger,Scottish Terrier,1
+Leonberger,Russian Blue,1
+Leonberger,Ragdoll,1
+Leonberger,Japanese Chin,1
+Japanese Chin,Beagle,1
+Keeshond,Boxer,1
+Keeshond,Basset Hound,1
+Japanese Chin,Yorkshire Terrier,1
+Japanese Chin,Sphynx,1
+Japanese Chin,Samoyed,1
+Japanese Chin,Ragdoll,1
+Samoyed,English Setter,1
+Samoyed,Bombay,1
+Samoyed,Bengal,1
+Samoyed,Basset Hound,1
+Saint Bernard,Wheaten Terrier,1
+Keeshond,Persian,1
+Keeshond,Miniature Pinscher,1
+Keeshond,Leonberger,1
+Keeshond,English Cocker Spaniel,1
+Great Pyrenees,Yorkshire Terrier,1
+Great Pyrenees,Siamese,1
+Scottish Terrier,Beagle,1
+Scottish Terrier,Basset Hound,1
+Samoyed,Siamese,1
+Samoyed,Shiba Inu,1
+Samoyed,Scottish Terrier,1
+Samoyed,Russian Blue,1
+Samoyed,Keeshond,1
+Japanese Chin,Abyssinian,1
+Havanese,Pomeranian,1
+Japanese Chin,Newfoundland,1
+Japanese Chin,Maine Coon,1
+Japanese Chin,Chihuahua,1
+Japanese Chin,British Shorthair,1
+Japanese Chin,Bombay,1
+German Shorthaired,Siamese,1
+German Shorthaired,Scottish Terrier,1
+Scottish Terrier,Pomeranian,1
+Scottish Terrier,Maine Coon,1
+Scottish Terrier,English Setter,1
+Great Pyrenees,Russian Blue,1
+Great Pyrenees,Newfoundland,1
+Great Pyrenees,Maine Coon,1
+Great Pyrenees,Havanese,1
+Great Pyrenees,Chihuahua,1
+Great Pyrenees,British Shorthair,1
+Havanese,English Cocker Spaniel,1
+Havanese,Chihuahua,1
+Havanese,Boxer,1
+Havanese,Bombay,1
+Havanese,Basset Hound,1
+English Setter,Newfoundland,1
+English Setter,Miniature Pinscher,1
+English Setter,Leonberger,1
+English Setter,Japanese Chin,1
+Shiba Inu,British Shorthair,1
+Shiba Inu,American Bulldog,1
+Scottish Terrier,Yorkshire Terrier,1
+Scottish Terrier,Shiba Inu,1
+Scottish Terrier,Ragdoll,1
+German Shorthaired,Leonberger,1
+German Shorthaired,Great Pyrenees,1
+German Shorthaired,British Shorthair,1
+German Shorthaired,Bombay,1
+English Setter,Yorkshire Terrier,1
+German Shorthaired,Yorkshire Terrier,1
+German Shorthaired,Sphynx,1
+English Cocker Spaniel,Samoyed,1
+English Cocker Spaniel,Keeshond,1
+English Cocker Spaniel,Japanese Chin,1
+English Cocker Spaniel,Great Pyrenees,1
+Shiba Inu,Samoyed,1
+Shiba Inu,Ragdoll,1
+Shiba Inu,Pug,1
+Shiba Inu,Leonberger,1
+Shiba Inu,Great Pyrenees,1
+Shiba Inu,English Setter,1
+Shiba Inu,Egyptian Mau,1
+English Setter,British Shorthair,1
+English Cocker Spaniel,Wheaten Terrier,1
+English Cocker Spaniel,Siamese,1
+English Setter,Wheaten Terrier,1
+English Setter,Russian Blue,1
+Egyptian Mau,Birman,1
+Egyptian Mau,Bengal,1
+Egyptian Mau,Beagle,1
+Egyptian Mau,Basset Hound,1
+Siamese,German Shorthaired,1
+Siamese,English Setter,1
+Siamese,American Bulldog,1
+Shiba Inu,Siamese,1
+Shiba Inu,Scottish Terrier,1
+English Cocker Spaniel,Bengal,1
+Egyptian Mau,Wheaten Terrier,1
+Egyptian Mau,Staffordshire Bull Terrier,1
+Egyptian Mau,Siamese,1
+Egyptian Mau,Samoyed,1
+Egyptian Mau,Saint Bernard,1
+Egyptian Mau,Pug,1
+British Shorthair,Shiba Inu,1
+Egyptian Mau,American Bulldog,1
+Chihuahua,Scottish Terrier,1
+Chihuahua,Russian Blue,1
+Chihuahua,Newfoundland,1
+Chihuahua,Japanese Chin,1
+Siamese,Saint Bernard,1
+Siamese,Pomeranian,1
+Siamese,Persian,1
+Siamese,Miniature Pinscher,1
+Siamese,Maine Coon,1
+Siamese,Leonberger,1
+Siamese,Japanese Chin,1
+Egyptian Mau,Pomeranian,1
+Egyptian Mau,English Setter,1
+Egyptian Mau,Bombay,1
+Boxer,Staffordshire Bull Terrier,1
+Boxer,Siamese,1
+Boxer,Samoyed,1
+Sphynx,Keeshond,1
+Sphynx,English Setter,1
+Sphynx,Birman,1
+Sphynx,Bengal,1
+British Shorthair,Scottish Terrier,1
+British Shorthair,Pug,1
+British Shorthair,Pomeranian,1
+British Shorthair,Persian,1
+British Shorthair,Japanese Chin,1
+British Shorthair,German Shorthaired,1
+British Shorthair,English Cocker Spaniel,1
+Chihuahua,Bombay,1
+Chihuahua,Bengal,1
+Bombay,Japanese Chin,1
+Boxer,Persian,1
+Boxer,Leonberger,1
+Boxer,Keeshond,1
+Boxer,Great Pyrenees,1
+Boxer,Chihuahua,1
+Boxer,British Shorthair,1
+Boxer,Birman,1
+Boxer,Bengal,1
+Staffordshire Bull Terrier,Bombay,1
+Staffordshire Bull Terrier,Abyssinian,1
+Sphynx,Yorkshire Terrier,1
+Sphynx,Siamese,1
+British Shorthair,Bombay,1
+British Shorthair,American Bulldog,1
+Boxer,Yorkshire Terrier,1
+Birman,German Shorthaired,1
+Birman,English Setter,1
+Birman,Boxer,1
+Staffordshire Bull Terrier,Leonberger,1
+Staffordshire Bull Terrier,Great Pyrenees,1
+Staffordshire Bull Terrier,Boxer,1
+Bombay,Chihuahua,1
+Bombay,Boxer,1
+Bombay,Birman,1
+Bombay,American Pit Bull Terrier,1
+Bombay,Abyssinian,1
+Birman,Wheaten Terrier,1
+Birman,Staffordshire Bull Terrier,1
+Birman,Shiba Inu,1
+Bombay,Yorkshire Terrier,1
+Bombay,Miniature Pinscher,1
+Beagle,Leonberger,1
+Beagle,Great Pyrenees,1
+Beagle,Chihuahua,1
+Wheaten Terrier,Chihuahua,1
+Staffordshire Bull Terrier,Sphynx,1
+Staffordshire Bull Terrier,Samoyed,1
+Bengal,Leonberger,1
+Beagle,Sphynx,1
+Birman,American Pit Bull Terrier,1
+Bengal,Wheaten Terrier,1
+Bengal,Samoyed,1
+Bengal,Russian Blue,1
+Bengal,Pomeranian,1
+Birman,Saint Bernard,1
+Birman,Keeshond,1
+Birman,Havanese,1
+Abyssinian,Yorkshire Terrier,1
+Abyssinian,Bombay,1
+Yorkshire Terrier,Egyptian Mau,1
+Yorkshire Terrier,Chihuahua,1
+Wheaten Terrier,Yorkshire Terrier,1
+Wheaten Terrier,Sphynx,1
+Wheaten Terrier,Saint Bernard,1
+American Bulldog,Persian,1
+American Bulldog,Maine Coon,1
+American Bulldog,Leonberger,1
+American Bulldog,Keeshond,1
+American Bulldog,Chihuahua,1
+American Bulldog,Boxer,1
+American Pit Bull Terrier,Boxer,1
+American Bulldog,Russian Blue,1
+American Bulldog,Ragdoll,1
+Pomeranian,Wheaten Terrier,1
+Pomeranian,Siamese,1
+Pomeranian,Scottish Terrier,1
+Pomeranian,Russian Blue,1
+Pomeranian,Great Pyrenees,1
+Pug,Miniature Pinscher,1
+Pug,Leonberger,1
+Pug,Japanese Chin,1
+Pug,British Shorthair,1
+Pug,Bombay,1
+Yorkshire Terrier,Scottish Terrier,1
+Yorkshire Terrier,Samoyed,1
+Yorkshire Terrier,Maine Coon,1
+Yorkshire Terrier,Keeshond,1
+Yorkshire Terrier,English Setter,1
+American Bulldog,Beagle,1

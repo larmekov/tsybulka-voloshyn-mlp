@@ -1,0 +1,14 @@
+{
+  "learning_rate": 0.0016726081030450782,
+  "batch_size": 32,
+  "dropout_rate": 0.0,
+  "pooling_type": "max",
+  "num_layers": 2,
+  "base_channels": 16,
+  "augmentation": false,
+  "channels": [
+    16,
+    32
+  ],
+  "val_accuracy": 0.125
+}
